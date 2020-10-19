@@ -4,7 +4,6 @@ My name is Julian Sherollari
 - I’m currently studyng Artificial Intelligence at Università di Bologna
 - My home on the net is https://sherollari.it
 - You can reach me by mail at julian@sherollari.it
-- You can find me on Twitter as @jsherollari
 - My pronouns are he/his
 - Some fun facts: *
 
