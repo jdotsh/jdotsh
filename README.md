@@ -1,7 +1,7 @@
 ### Here is What I'm Working On! 👋
 
 My name is Julian Sherollari
-- I’m currently studyng Artificial Intelligence at Università di Bologna
+- I’m currently studying Artificial Intelligence at Università di Bologna
 - My home on the net is https://sherollari.it
 - You can reach me by mail at julian@sherollari.it
 - My pronouns are He/His
