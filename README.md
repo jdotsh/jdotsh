@@ -1,11 +1,19 @@
-### Here is What I'm Working On! 👋
+### Julian Sherollari
+I am an engineer working in data science and machine learning.
 
-Julian I am:
-- currently studying Artificial Intelligence at Università di Bologna
-- home on the net: https://sherollari.it
-- you can reach me by mail at julian@sherollari.it - MSc. in Artificial Intelligence #unibo
-- passionate about politics, history and fan of wild ducks 
-- pronouns are He/His
+#### Github Stats
+<details>
+  <img align="left" alt="jdotsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdotsh&layout=compact" />
+</details>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jdotsh&count_private=true&theme=vue&hide=,prs,issues&show_icons=true&hide_title=true)
+#### Connect with me
 
+[<img align="left" alt="jdotsh's email" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+[<img align="left" alt="https://sherollari.it" width="17px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jdotsh's Twitter" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jdotsh's LinkedIn" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ 
+[email]: julian@sherollari.it
+[website]: https://sherollari.it
+[twitter]: https://twitter.com/JSherollari
+[linkedin]: https://linkedin.com/in/julian-sherollari
