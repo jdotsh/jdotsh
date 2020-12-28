@@ -13,7 +13,7 @@ Italian (native), Albanian (native), English (full professional proficiency), Ge
 
 #### Github Stats
 <details>
-  <img align="left" alt="jdotsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdotsh&layout=compact" />
+  <img alt="jdotsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdotsh&layout=compact" />
 </details>
 
 #### Connect with me
