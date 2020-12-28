@@ -1,5 +1,7 @@
-### Julian Sherollari
-I am an engineer working in data science and machine learning.
+## Julian Sherollari
+I am Technology Optimist, always eager to put into action what I learn. 
+Presently I'm working at the intersection of data mining, deep learning, information retrieval, machine learning, optimization and software engineering.
+My hobbies include playing chess, solvingproblems and anything I can test my logic against.
 
 #### Github Stats
 <details>
@@ -7,7 +9,6 @@ I am an engineer working in data science and machine learning.
 </details>
 
 #### Connect with me
-
 [<img align="left" alt="jdotsh's email" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 [<img align="left" alt="https://sherollari.it" width="17px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jdotsh's Twitter" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
