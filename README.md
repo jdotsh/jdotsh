@@ -5,12 +5,30 @@
 [linkedin]: https://linkedin.com/in/julian-sherollari
 
 ## Julian Sherollari
-I am Technology Optimist, always eager to put into action what I learn.
-Presently I'm working at the intersection of data mining, deep learning, information retrieval, machine learning, optimization and software engineering.
+I am a **Technology Optimist**, graduated **Computer and Automation Engineering** at **Marche Polytechnic University (Marche, Italy)**, semester abroad at **Augsburg University of Applied Sciences (Bayern, Germany)**, intern at **The Qt Company (Oslo, Norway)** during the **Google Summer of Code** program. I'm currently enrolled in the **Artificial Intelligence** MSc at the **University of Bologna**, studying things like Neural Networks, Computer Vision, Deep Learning, Reinforcement Learning and the mathematics behind these.
+
 My hobbies include playing chess, solving problems and anything I can test my logic against.
 
-Italian (native), Albanian (native), English (full professional proficiency), German (basic), Chinese (basic).
+# Technologies I like
+* C/C++
+* Docker
+* Git
+* LaTeX
+* Linux
 
+### Even though I really like development, it ain't my cup of tea. I am totally fascinated by Artificial Intelligence and Machine Learning, so in the last years I had the pleasure of working with:
+* Python
+* NumPy
+* Pandas
+* Seaborn
+* Matplotlib
+* SciKit Learn
+* TensorFlow
+* OpenCV
+* PyTorch
+
+#### Technologies I don't really like
+**These don't actually exist**. I'm ultra curious about things I don't usually work with. Hit me up with that knowledge!
 #### Github Stats
 <details>
   <img alt="jdotsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdotsh&layout=compact" />
