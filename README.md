@@ -9,8 +9,11 @@ I am a Technology Optimist, graduated Computer and Automation Engineering at Mar
 
 My hobbies include playing chess, solving problems and anything I can test my logic against.
 
-### Technologies I used: 
-Qt/Qml/C++, Git, Linux, Matlab, LaTeX, Docker
+### Technologies I like: 
+Qt/Qml/C++, Git, Linux, Matlab/Simulink, LaTeX, Docker
+
+### Languages and Communications
+Italian, Albanian (Native), English (Full professional proficiency), German, Chinese (Elementary proficiency)
 
 ### Even though I like development, it ain't my cup of tea. 
 I am totally fascinated by Artificial Intelligence and Machine Learning, in the last years I had the pleasure of working with: 
