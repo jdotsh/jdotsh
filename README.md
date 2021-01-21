@@ -19,7 +19,7 @@ Italian, Albanian (Native), English (Full professional proficiency), German, Chi
 I am totally fascinated by Artificial Intelligence and Machine Learning, in the last years I had the pleasure of working with: 
 Python, NumPy, Pandas, Seaborn, Matplotlib, SciKit Learn, TensorFlow, OpenCV, PyTorch
 
-### Technologies I don't really like
+### Technologies I don't like
 These don't actually exist. I'm very curious about things I don't usually work with. Hit me up with that knowledge!
 
 ### Github Stats
