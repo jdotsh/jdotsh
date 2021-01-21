@@ -12,8 +12,9 @@ My hobbies include playing chess, solving problems and anything I can test my lo
 ### Technologies I used: 
 Qt/Qml/C++, Git, Linux, Matlab, LaTeX, Docker
 
-### Even though I like development, it ain't my cup of tea. I am totally fascinated by Artificial Intelligence and Machine Learning 
-In the last years I had the pleasure of working with: Python, NumPy, Pandas, Seaborn, Matplotlib, SciKit Learn, TensorFlow, OpenCV, PyTorch
+### Even though I like development, it ain't my cup of tea. 
+I am totally fascinated by Artificial Intelligence and Machine Learning, in the last years I had the pleasure of working with: 
+Python, NumPy, Pandas, Seaborn, Matplotlib, SciKit Learn, TensorFlow, OpenCV, PyTorch
 
 ### Technologies I don't really like
 These don't actually exist. I'm very curious about things I don't usually work with. Hit me up with that knowledge!
