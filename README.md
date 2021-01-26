@@ -9,8 +9,11 @@ I am a Technology Optimist, graduated Computer and Automation Engineering at Mar
 
 My hobbies include playing chess, solving problems and anything I can test my logic against.
 
-### Technologies I like: 
-Qt/Qml/C++, Git, Linux, Matlab/Simulink, LaTeX, Docker
+### Github Stats
+<details>
+  <img alt="jdotsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdotsh&layout=compact" />
+</details>
+
 
 ### Languages and Communications
 Italian, Albanian (Native), English (Full professional proficiency), German, Chinese (Elementary proficiency)
@@ -21,11 +24,6 @@ Python, NumPy, Pandas, Seaborn, Matplotlib, SciKit Learn, TensorFlow, OpenCV, Py
 
 ### Technologies I don't like
 These don't actually exist. I'm very curious about things I don't usually work with. Hit me up with that knowledge!
-
-### Github Stats
-<details>
-  <img alt="jdotsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdotsh&layout=compact" />
-</details>
 
 ### Connect with me
 [<img align="left" alt="jdotsh's email" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
