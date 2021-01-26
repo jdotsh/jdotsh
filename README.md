@@ -5,9 +5,9 @@
 [linkedin]: https://linkedin.com/in/julian-sherollari
 
 ### Summary
-I am a Technology Optimist, graduated Computer and Automation Engineering at Marche Polytechnic University (Marche, Italy), semester abroad at Augsburg University of Applied Sciences (Bayern, Germany), intern at The Qt Company (Oslo, Norway) during the Google Summer of Code program. I'm currently enrolled in the Artificial Intelligence MSc at the University of Bologna, studying things like Neural Networks, Computer Vision, Deep Learning, Reinforcement Learning and the mathematics behind these.
+I am a Technology Optimist, graduated in Computer and Automation Engineering at Marche Polytechnic University (Marche, Italy), semester abroad at Augsburg University of Applied Sciences (Bayern, Germany), intern at The Qt Company (Oslo, Norway) during the Google Summer of Code program. I'm currently enrolled in the Artificial Intelligence MSc at the University of Bologna, studying things like Neural Networks, Computer Vision, Deep Learning, Reinforcement Learning and the mathematics behind these.
 
-I am totally fascinated by Artificial Intelligence and Machine Learning, in the last years I had the pleasure of working with: 
+I had the pleasure of working with: 
 Python, NumPy, Pandas, Seaborn, Matplotlib, SciKit Learn, TensorFlow, OpenCV, PyTorch
 
 My hobbies include playing chess, solving problems and anything I can test my logic against.
