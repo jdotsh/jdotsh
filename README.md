@@ -10,8 +10,6 @@ I am a Technology Optimist, graduated in Computer and Automation Engineering at 
 I had the pleasure of working with: 
 Python, NumPy, Pandas, Seaborn, Matplotlib, SciKit Learn, TensorFlow, OpenCV, PyTorch
 
-My hobbies include playing chess, solving problems and anything I can test my logic against.
-
 ### Languages and Communications
 Italian, Albanian (Native), English (Full professional proficiency), German, Chinese (Elementary proficiency)
 
